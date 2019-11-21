@@ -1,0 +1,11 @@
+# Unity folders to ignore
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Never ignore Asset metadata
+!/[Aa]ssets/**/*.meta
